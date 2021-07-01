@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iftee
-- 👀 I’m interested in frontend webiste development
+- 👀 I’m interested in frontend website development
 - 💞️ I’m looking to collaborate on making websites with wordpress
 
 <!---
