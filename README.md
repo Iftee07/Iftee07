@@ -1,5 +1,5 @@
-     I’m interested in frontend website development
-     I’m looking to collaborate on making websites with wordpress
+     Interested in frontend website development, expert in WordPress
+     Currently learning Java
 
 <!---
 Iftee07/Iftee07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
