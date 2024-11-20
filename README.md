@@ -1,4 +1,4 @@
-# 💫 Hi I'm Iftee and
+# 💫 Hi I'm Iftee!
 I'm currently an undergrad CS student. <br>I'm now working with react and tailwind to make awesome websites. <br>I've previously worked with Python and now I'm learning Java.<br>I look forward to any collaboration offers.<br>Hope you like my GitHub profile!!
 
 
